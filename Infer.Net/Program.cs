@@ -8,7 +8,7 @@ namespace Infer.Net
     {
         static void Main(string[] args)
         {
-            Task2_5.Run();
+            Task3_3.Run();
         }
     }
 }
